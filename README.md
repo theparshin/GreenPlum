@@ -1,0 +1,2 @@
+# GreenPlum
+Configuration files
